@@ -1,0 +1,18 @@
+* - zerar margin e padding
+1- Montar estrutura de texto dentro das tags (HTML)
+2- Montar estrutura de imagens dentro das tags (HTML)
+3- Importar fontes e definir variáveis para fontes e cores (CSS)
+4- Definir variáveis no css para fontes e cores 
+5- Definir cores básicas nas caixas (CSS)
+6- Montar responsividade de texto e imagem usando width max e min no viewport, width de imagens e ocupação de imagens na tela (HTML e CSS)
+7- Definir outros elementos do main como sombra, arredondamento.. (CSS)
+8 - Definir heigth-min cabeçalho e estilizar. ps: Fique atento se o texto não estará encostando na janela (CSS)
+9- Estilizar textos do cabeçalho, como width, sombras, font-size etc (CSS)
+
+10- Definir configurações de paragrafo: margin, size, color, indentt, text-align, espaçamento etc
+
+11- configurar todos os textos destaque como strongs e links
+
+12- Configurar aside e footer
+
+13- inserir adicionais como emojis
